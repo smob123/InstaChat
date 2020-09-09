@@ -1,0 +1,30 @@
+.profile-main-container {
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.profile-user-avatar {
+    position: relative;
+    overflow: hidden;
+    width: 35vw;
+    height: 35vw;
+}
+
+.profile-user-avatar .avatar-overlay {
+    position: absolute;
+    top: 65%;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .8);
+    text-align: center;
+    padding-top: 5%;
+    color: #eeffee;
+}
+
+.profile-user-avatar input {
+    display: none;
+}

@@ -1,0 +1,21 @@
+ion-thumbnail {
+    width: 50%;
+    height: auto;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.main-container {
+    width: 90%;
+    margin: 20px auto;
+}
+
+ion-input {
+    margin-top: 10px;
+    text-indent: 5px;
+}
+
+ion-button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
