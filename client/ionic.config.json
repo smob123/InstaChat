@@ -1,0 +1,7 @@
+{
+  "name": "instachat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

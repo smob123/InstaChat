@@ -1,0 +1,13 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "instachat",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "./public",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
